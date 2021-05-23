@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Abhishek Patel
+#### I am MERN STACK DEVELOPER
+![I am MERN STACK DEVELOPER](https://images.unsplash.com/photo-1618424599646-14f0a25990f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNzQ4OTEy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
 
 I'm Abhishek Patel from India  , and I am a Mern Stack Developer . I really enjoy lerarning languages and frameworks like React js , React Native , Express js etc also i am goot in probleming solving skill
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPatel)](https://github.com/Abhishekpatel123/github-readme-stats)
+Skills:  REACT JS / JAVASCRIPT / MATERIAL UI / NODE JS / EXPRESS JS / MONGODB /MONGOOSE / REDUX / GRAPQL / HTML / CSS 
+
+- 🔭 I’m currently working on Doof Research Private Limited as a intern  
+- 🌱 I’m currently learning Python , ML and AI 
+- 💬 Ask me about MERN STACK RELATIVE STUFF 
+- 📫 How to reach me: https://www.linkedin.com/in/abhishek-patel-6169581a3/ 
 
 
-- 🔭 I’m currently working on Doof Reasearch Private Limited as a intern 
-- 🌱 I’m currently learning React Native && Python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Mern Stack and relative stuff
-- 📫 How to reach me: https://www.linkedin.com/in/abhishek-patel-6169581a3/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abhishekpatel123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-patel-6169581a3//)  
+
