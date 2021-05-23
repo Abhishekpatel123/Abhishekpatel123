@@ -2,7 +2,7 @@
 
 I'm Abhishek Patel from India  , and I am a Mern Stack Developer . I really enjoy lerarning languages and frameworks like React js , React Native , Express js etc also i am goot in probleming solving skill
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek Patel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPatel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on Doof Reasearch Private Limited as a intern 
