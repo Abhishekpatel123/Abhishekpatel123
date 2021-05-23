@@ -12,5 +12,14 @@ Skills:  REACT JS / JAVASCRIPT / MATERIAL UI / NODE JS / EXPRESS JS / MONGODB /M
 - 📫 How to reach me: https://www.linkedin.com/in/abhishek-patel-6169581a3/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abhishekpatel123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-patel-6169581a3//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhishekpatel123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-patel-6169581a3//)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekpatel123)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekpatel123&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhishekpatel123)  
+
+![GitHub metrics](https://metrics.lecoq.io/Abhishekpatel123)  
+
+![Profile views](https://gpvc.arturio.dev/Abhishekpatel123)  
