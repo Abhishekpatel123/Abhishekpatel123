@@ -2,7 +2,7 @@
 #### I am MERN STACK DEVELOPER
 ![I am MERN STACK DEVELOPER](https://images.unsplash.com/photo-1618424599646-14f0a25990f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNzQ4OTEy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
 
-I'm Abhishek Patel from India  , and I am a Mern Stack Developer . I really enjoy lerarning languages and frameworks like React js , React Native , Express js etc also i am goot in probleming solving skill
+I'm Abhishek Patel from India  , and I am a Mern Stack Developer . I really enjoy learning languages and frameworks like React js , React Native , Express js etc also i am good in problem solving skill
 
 Skills:  REACT JS / JAVASCRIPT / MATERIAL UI / NODE JS / EXPRESS JS / MONGODB /MONGOOSE / REDUX / GRAPQL / HTML / CSS 
 
